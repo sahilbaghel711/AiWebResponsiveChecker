@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "AiWebResponsiveChecker",
+  "version": "1.0",
+  "description": "A Chrome extension to check website responsiveness",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

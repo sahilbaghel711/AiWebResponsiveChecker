@@ -54,7 +54,7 @@ Identify any potential layout/responsiveness issues (like overflowing content, p
             method: "POST",
             headers: {
               "Content-Type": "application/json",
-              Authorization: `Bearer `,
+              Authorization: `Bearer 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`,
             },
             body: JSON.stringify({
               model: "gpt-3.5-turbo",
